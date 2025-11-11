@@ -48,6 +48,7 @@ Python,Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 GridSearchCV, ROC-AUC, Accuracy Score
 
 📈 5. Results and Insights
+
 🔍 Model Insights:
 
 The Random Forest Classifier performed best with an accuracy of around 93% and ROC-AUC of 0.96.
@@ -66,12 +67,12 @@ Important features influencing customer subscription:
 
 💡 Marketing Recommendations:
 
-Target customers who had a successful previous campaign and were contacted via cellular.
+1. Target customers who had a successful previous campaign and were contacted via cellular.
 
-Focus campaigns in high-performing months (e.g., March, October).
+2. Focus campaigns in high-performing months (e.g., March, October).
 
-Personalize communication based on customer age, job type, and call duration.
+3. Personalize communication based on customer age, job type, and call duration.
 
-Avoid over-contacting (limit campaign count) to reduce negative responses.
+4. Avoid over-contacting (limit campaign count) to reduce negative responses.
 
-Retrain model periodically using the latest campaign data to adapt to changing trends.
+5. Retrain model periodically using the latest campaign data to adapt to changing trends.
