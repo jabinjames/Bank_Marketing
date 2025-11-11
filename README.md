@@ -43,6 +43,7 @@ Source: UCI Machine Learning Repository
 File Used: bank-additional-full.csv
 
 ⚙️ 4. Tools and Technologies
+
 Python,Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 GridSearchCV, ROC-AUC, Accuracy Score
 
@@ -53,15 +54,15 @@ The Random Forest Classifier performed best with an accuracy of around 93% and R
 
 Important features influencing customer subscription:
 
-duration (call duration)
+-duration (call duration)
 
-poutcome_success (previous campaign success)
+-poutcome_success (previous campaign success)
 
-contact_cellular (contact type)
+-contact_cellular (contact type)
 
-month_mar, month_oct (month of contact)
+-month_mar, month_oct (month of contact)
 
-pdays (days since last contact)
+-pdays (days since last contact)
 
 💡 Marketing Recommendations:
 
